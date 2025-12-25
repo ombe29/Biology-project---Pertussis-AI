@@ -1,0 +1,7 @@
+{
+  "name": "מוח AI - עוזר אישי מבוסס אתרים",
+  "description": "A Hebrew-speaking AI assistant that answers questions based on specific websites you provide, using Gemini's advanced reasoning and Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
